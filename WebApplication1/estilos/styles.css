@@ -1,0 +1,15 @@
+﻿.main__div{
+    display:grid;
+    grid-template-columns: max-content 1fr 1fr;
+    gap: 10px;
+}
+
+.comment__div{
+    border: 1px solid black;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+#lblUser{
+    text-decoration: wavy;
+}
